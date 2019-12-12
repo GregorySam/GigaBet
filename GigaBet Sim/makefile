@@ -1,0 +1,1 @@
+GigaBet:Bet.cpp Director.cpp Files_Management.cpp GigaBet.cpp Guest.cpp Hierarchy.cpp Main.cpp Numeric_Functions.cpp Trader.cpp Punter.cpp User.cpp User_Navigation.cpp User_Operations.cpp;g++ Bet.cpp Director.cpp Files_Management.cpp GigaBet.cpp Guest.cpp Hierarchy.cpp Main.cpp Numeric_Functions.cpp Trader.cpp Punter.cpp User.cpp User_Navigation.cpp User_Operations.cpp -o GigaBet
